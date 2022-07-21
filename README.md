@@ -20,6 +20,6 @@ Our mailing-list is **pwl@nairobi.us**, request to join <here> (TBD).
 
 Feel free to contact any of the organizers (Github handles + emails):
 
-- **Ishuah Kariuki**, @ishuah, e: kariuki@ishuah.com
-- **Kemunto Ochwang'i**, @evalevanto -
-- **Anthony Nandaa**, @profnandaa, e: hey@nandaa.dev
+- **Ishuah Kariuki**, [@ishuah](https://github.com/ishuah), e: kariuki@ishuah.com
+- **Kemunto Ochwang'i**, [@evalevanto](https://github.com/evalevanto)
+- **Anthony Nandaa**, [@profnandaa](https://github.com/profnandaa), e: hey@nandaa.dev
