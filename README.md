@@ -24,5 +24,5 @@ Feel free to contact any of the organizers (Github handles + emails):
 - **Kemunto Ochwang'i**, [@evalevanto](https://github.com/evalevanto)
 - **Bernice Waweru**
 - **Rodgers Andati**
-- **Ruth Waiganjo**
+- **Ruth Waiganjo**, [@RuthNjeri](https://github.com/RuthNjeri)
 - **Anthony Nandaa**, [@profnandaa](https://github.com/profnandaa), e: hey@nandaa.dev
