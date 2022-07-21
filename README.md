@@ -22,4 +22,3 @@ Feel free to contact any of the organizers (Github handles + emails):
 
 - **Ishuah Kariuki**, [@ishuah](https://github.com/ishuah), e: kariuki@ishuah.com
 - **Kemunto Ochwang'i**, [@evalevanto](https://github.com/evalevanto)
-- **Anthony Nandaa**, [@profnandaa](https://github.com/profnandaa), e: hey@nandaa.dev
