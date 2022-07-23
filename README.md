@@ -20,8 +20,8 @@ Our mailing-list is **pwl@nairobi.us**, request to join <here> (TBD).
 
 Feel free to contact any of the organizers (Github handles + emails):
 
-- **Ishuah Kariuki**, [@ishuah](https://github.com/ishuah), e: kariuki@ishuah.com
-- **Kemunto Ochwang'i**, [@evalevanto](https://github.com/evalevanto)
+- **Ishuah Kariuki**, [@ishuah](https://github.com/ishuah), e: kariuki@ishuah.com - _Lead_
+- **Kemunto Ochwang'i**, [@evalevanto](https://github.com/evalevanto) - _Co-Lead_
 - **Bernice Waweru**
 - **Rodgers Andati**
 - **Ruth Waiganjo**, [@RuthNjeri](https://github.com/RuthNjeri)
