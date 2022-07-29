@@ -23,6 +23,6 @@ Feel free to contact any of the organizers (Github handles + emails):
 - **Ishuah Kariuki**, [@ishuah](https://github.com/ishuah), e: kariuki@ishuah.com - _Lead_
 - **Kemunto Ochwang'i**, [@evalevanto](https://github.com/evalevanto) - _Co-Lead_
 - **Bernice Waweru**
-- **Rodgers Andati**
+- **Rodgers Andati**, [@Andati](https://github.com/andati)
 - **Ruth Waiganjo**, [@RuthNjeri](https://github.com/RuthNjeri)
 - **Anthony Nandaa**, [@profnandaa](https://github.com/profnandaa), e: hey@nandaa.dev
