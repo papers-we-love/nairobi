@@ -3,7 +3,7 @@
 [![Join the chat at https://gitter.im/pwl-nairobi/community](https://badges.gitter.im/pwl-nairobi/community.svg)](https://gitter.im/pwl-nairobi/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
-This is the repository for the Nairobi chapter of Papers We Love. Join us on Meetup here - https://meetup.com/pwl-nairobi
+This is the repository for the Nairobi chapter of Papers We Love. Join us on Meetup here - https://www.linkedin.com/groups/9304970/
 
 
 ### Code of Conduct
