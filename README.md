@@ -14,6 +14,7 @@ As a local chapter we follow the Papers We Love [Code of Conduct](https://github
 
 - **Current Focus Areas:** Computer Science / Tech papers, but not limited to that.
 - **Meetings:** `Every first Tuesday of the Month, 1 - 1.45 PM Nairobi Time`.
+- **Meeting Recordings:** https://www.youtube.com/@paperswelove-nairobi
 - **Location:** Hybrid, you can join us online (via Teams) or in person at 📍 [Dunhill Towers, Westlands](https://goo.gl/maps/nt5qDpUJM3qDRXsU6), 7th Floor. (_For in-person, please email the organizers early to get a pass for you_)
 
 ### Contact
