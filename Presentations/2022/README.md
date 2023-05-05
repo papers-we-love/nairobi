@@ -1,5 +1,5 @@
-/| Month     | Paper Discussed | Recording | Presentation Slides | Presenter
-|-----------|-----------------|-----------|---------------------|
+| Month     | Paper Discussed | Recording | Presentation Slides | Presenter|
+|-----------|-----------------|-----------|---------------------|---------------|
 | January     | No Meeting      | N/A           | N/A                 |
 | February    | No Meeting      | N/A           | N/A                 |
 | March       | No Meeting      | N/A           | N/A                 | 
