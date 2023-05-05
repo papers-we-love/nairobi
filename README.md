@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/pwl-nairobi/community](https://badges.gitter.im/pwl-nairobi/community.svg)](https://gitter.im/pwl-nairobi/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-### 👉 [Join LinkedIn Group](https://www.linkedin.com/groups/9304970/) | [View recordings on YouTube](https://www.youtube.com/@paperswelove-nairobi)
+### 👉 [Join LinkedIn Group](https://www.linkedin.com/groups/9304970/) | [ Follow Our LinkedIn Page](https://www.linkedin.com/company/92482299/) | [View recordings on YouTube](https://www.youtube.com/@paperswelove-nairobi)
 
 
 This is the repository for the Nairobi chapter of Papers We Love. Join us on **LinkedIn Group** here - https://www.linkedin.com/groups/9304970/
@@ -21,7 +21,7 @@ As a local chapter we follow the Papers We Love [Code of Conduct](https://github
 
 ### Contact
 
-Our mailing-list is **pwl@nairobi.us**, request to join <here> (TBD).
+You can contact the group by raising an issue on the Github repository.
 
 Feel free to contact any of the organizers (Github handles + emails):
 
