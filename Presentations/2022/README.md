@@ -1,10 +1,10 @@
 | Month     | Paper Discussed | Recording | Presentation Slides | Presenter|
 |-----------|-----------------|-----------|---------------------|---------------|
-| January     | No Meeting      | N/A           | N/A                 |
-| February    | No Meeting      | N/A           | N/A                 |
-| March       | No Meeting      | N/A           | N/A                 | 
-| April       | No Meeting      | N/A           | N/A                 |
-| May         | No Meeting      | N/A           | N/A                 |
+| January     | No Meeting      | N/A           | N/A                 |  N/A
+| February    | No Meeting      | N/A           | N/A                 |  N/A
+| March       | No Meeting      | N/A           | N/A                 |  N/A
+| April       | No Meeting      | N/A           | N/A                 |  N/A
+| May         | No Meeting      | N/A           | N/A                 |  N/A
 | 7th June    | First Meeting   | [Recording](https://youtu.be/m0FRtw4mNTc) |                     | [Antony Nandaa](https://www.linkedin.com/in/profnandaa/)
 | 5th July    | [Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)|  Video Expired|                     | [Ishuah Kariuki](https://www.linkedin.com/in/ishuah/)
 | 2nd August  | [TAO Facebook's Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)| Video Expired|                     | [Antony Nandaa](https://www.linkedin.com/in/profnandaa/)
