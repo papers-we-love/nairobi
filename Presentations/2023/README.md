@@ -1,6 +1,6 @@
-| Month     | Paper Discussed | Recording | Presentation Slides |
-|-----------|-----------------|-----------|---------------------|
-| January   | No Meeting      | No Meeting| No Meeting          |
+| Month     | Paper Discussed | Recording | Presentation Slides | Presenter |
+|-----------|-----------------|-----------|---------------------|------------|
+| January   | No Meeting      | No Meeting| No Meeting          | N/A |
 | 7th February  | [AI 2041 Book](https://www.goodreads.com/book/show/56377201-ai-2041)|  [Recording](https://youtu.be/k4hfhvLEvXM)         |                     | [Timothy Kaboya](https://www.linkedin.com/in/timkaboya/)
 | 7th March     | [Open VPN is Open to VPN Fingerprinting](https://www.usenix.org/conference/usenixsecurity22/presentation/xue-diwen)| [Recording](https://youtu.be/6C2AXh2r6qE)           |                     | [Bob Sira](https://www.linkedin.com/in/bob-sira-sira-7b0598a3/)
 | 4th April     | [Raft Algorithm](https://raft.github.io/raft.pdf)| [Recording](https://youtu.be/Uo5tbqEzgPA)           |                     | [Daniel Kipkurui](https://www.linkedin.com/in/daniel-kipkurui-kiptoon-56b8a1177/)
