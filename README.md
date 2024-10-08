@@ -4,6 +4,7 @@
 
 ### 👉 [Join LinkedIn Group](https://www.linkedin.com/groups/9304970/) | [View recordings on YouTube](https://www.youtube.com/@paperswelove-nairobi)
 
+⭐ [S. Keshav (2016), How to Read a Paper](./papers/paper-reading.pdf)
 
 This is the repository for the Nairobi chapter of Papers We Love. Join us on **LinkedIn Group** here - https://www.linkedin.com/groups/9304970/
 
