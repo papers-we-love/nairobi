@@ -19,7 +19,7 @@ As a local chapter we follow the Papers We Love [Code of Conduct](https://github
 - **Meetings:** `Every first Tuesday of the Month, 12.00 - 1.00 PM Nairobi Time`.
 - **Meeting Recordings:** https://www.youtube.com/@paperswelove-nairobi
 - **Location:** Hybrid, you can join us online (via Teams) or in person at 📍 [Dunhill Towers, Westlands](https://goo.gl/maps/nt5qDpUJM3qDRXsU6), 7th Floor. (_For in-person, please email the organizers early to get a pass for you_)
-- **Suggest next paper:** we are always looking for presenters, do you have one that you would like to present, [suggest here](https://github.com/papers-we-love/nairobi/issues/new).
+- **Suggest next paper:** You can find [a list of seminal papers here for starters](https://github.com/papers-we-love/papers-we-love) or suggest your own. We are always looking for presenters, do you have one that you would like to present, [suggest here](https://github.com/papers-we-love/nairobi/issues/new).
 
 ### Contact
 
