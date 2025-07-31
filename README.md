@@ -27,9 +27,8 @@ Our mailing-list is **pwl@nairobi.fyi**, request to join <here> (TBD).
 
 Feel free to contact any of the organizers (Github handles + emails):
 
-- **Ishuah Kariuki**, [@ishuah](https://github.com/ishuah), e: kariuki@ishuah.com - _Lead_
-- **Brian Kiragu**, [@briankiragu](https://github.com/briankiragu) - _Co-Lead_
-- **Bernice Waweru**
-- **Rodgers Andati**, [@Andati](https://github.com/andati)
-- **Ruth Waiganjo**, [@RuthNjeri](https://github.com/RuthNjeri)
-- **Anthony Nandaa**, [@profnandaa](https://github.com/profnandaa), e: pwl@nandaa.dev
+- **Brian Kiragu**, _Software Engineer @ Microsoft_, [@briankiragu](https://github.com/briankiragu)
+- **Rodgers Andati**, _Software Engineer @ Microsoft_, [@Andati](https://github.com/andati)
+- **Ruth Waiganjo**, _Software Engineer @ Microsoft_, [@RuthNjeri](https://github.com/RuthNjeri)
+- **Anthony Nandaa**, _Software Engineer @ BV Labs_, [@profnandaa](https://github.com/profnandaa), e: nandaa+pwl@bvlabs.xyz
+- **Chrispine Chiedo**, _Software Engineer @ BV Labs_, [@chrischiedo](https://github.com/chrischiedo), e:chiedo+pwl@bvlabs.xyz 
