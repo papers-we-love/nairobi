@@ -32,3 +32,12 @@ Feel free to contact any of the organizers (Github handles + emails):
 - **Brian Kiragu**, _Software Engineer @ Microsoft_, [@briankiragu](https://github.com/briankiragu)
 - **Rodgers Andati**, _Software Engineer @ Microsoft_, [@Andati](https://github.com/andati)
 - **Ruth Waiganjo**, _Software Engineer @ Microsoft_, [@RuthNjeri](https://github.com/RuthNjeri)
+
+### Sponsors
+
+<img width="81" height="81" alt="BV Labs" src="https://github.com/user-attachments/assets/fdaee027-7eb3-4c40-a030-a8a376b28c86" />
+
+[BV Labs](https://bvlabs.xyz)
+
+> _Email sponsor-pwl@nandaa.dev if you would like to sponsor._
+
